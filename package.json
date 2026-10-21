@@ -1,0 +1,8 @@
+{
+  "name": "costdecade-r",
+  "version": "0.1.0",
+  "description": "Cost-per-decade durability math: rank BIFL candidates by real cost per decade",
+  "license": "MIT",
+  "repository": "https://github.com/scrapertweeter3-prog/costdecade-r",
+  "homepage": "https://durablepicks.com"
+}
