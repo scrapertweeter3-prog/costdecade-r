@@ -1,0 +1,18 @@
+Package: costdecade
+Type: Package
+Title: Price Durability by the Decade, Not the Receipt
+Version: 0.1.0
+Authors@R: person("James", "Verlander", email = "scrapertweeter3@gmail.com", role = c("aut", "cre"))
+Maintainer: James Verlander <scrapertweeter3@gmail.com>
+Description: A cheap tool replaced three times costs more than the dear one
+    bought once, but nobody does that arithmetic at the shelf. costdecade()
+    ranks buy-it-for-life candidates by real cost per decade, finds the
+    exact lifespan where the dear option starts winning, and totals the
+    spend over a full ownership horizon with replacement inflation and
+    resale. Companion to the cost-per-decade reviews on DurablePicks
+    <https://durablepicks.com>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+URL: https://durablepicks.com
+BugReports: https://github.com/scrapertweeter3-prog/costdecade/issues
+RoxygenNote: 7.3.1
